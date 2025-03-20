@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket.Reqnroll", "Rocket.Reqnroll.csproj", "{D989BC6D-D7E3-4010-B119-1BBC88373198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D989BC6D-D7E3-4010-B119-1BBC88373198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D989BC6D-D7E3-4010-B119-1BBC88373198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D989BC6D-D7E3-4010-B119-1BBC88373198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D989BC6D-D7E3-4010-B119-1BBC88373198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD75AE5-7CBB-4C24-B069-76E542CFB87A}
+	EndGlobalSection
+EndGlobal
